@@ -1,2 +1,2 @@
 # Aligned Environment & Playground
-Sharing is caring.
+Simplicity is the key to brilliance.
