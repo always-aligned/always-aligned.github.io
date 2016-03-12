@@ -1,1 +1,2 @@
-# Aligned Environment
+# Aligned Environment & Playground
+Sharing is caring.
